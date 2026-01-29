@@ -18,5 +18,6 @@ Implementacion de arboles genericos y metodos de busqueda genericos ocunando el 
 Se demuestra con el primer metodo de fibonacci que su tiempo de ejecucion es mas demorado, con el metodo TD y la mayoria pasa de O(2 elevado a la n) a O(n) manteniendo un coste espacial y temporal lineal por la programacion Dinamica TD, BU y optimizado baja su tiempo ocupando estrategias distinas de programacion 
 - Archivo: ![alt text](<Tiempos de ejecucion.png>)
 
-- Imagen del fibonacci optimizado
+- Imagen de los metodos de fibonacci optimizados
 
+![alt text](Fib.png)
