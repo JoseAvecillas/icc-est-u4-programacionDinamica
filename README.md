@@ -1,18 +1,22 @@
-## Getting Started
+# Práctica: Estructuras No Lineales - 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Autor
+- Nombre: Jose Avecillas
+- Carrera/Curso: Estructura de Datos
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+##  Programacion Dinamica - 5-1-2026
+- Práctica: icc-est-u2-programacionDinamica
+- Fecha: [2026-29-06]
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Descripción
+Implementacion de arboles genericos y metodos de busqueda genericos ocunando el comparable y compareTo
 
-## Dependency Management
+### Captura 1 - 29/1/2026
+Se demuestra con el primer metodo de fibonacci que su tiempo de ejecucion es mas demorado, con el metodo TD y la mayoria pasa de O(2 elevado a la n) a O(n) manteniendo un coste espacial y temporal lineal por la programacion Dinamica TD, BU y optimizado baja su tiempo ocupando estrategias distinas de programacion 
+- Archivo: ![alt text](<Tiempos de ejecucion.png>)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Imagen del fibonacci optimizado
+
